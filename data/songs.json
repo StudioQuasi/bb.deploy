@@ -1,0 +1,76 @@
+[
+	    {
+        "tracks" : [
+            "hallandoats/hallandoats.mp3"
+        ],
+        "commands" : [
+            "hallandoats/lead1.json",
+            "hallandoats/chorus.json"
+        ],
+        "fade" : 165
+    },
+    {
+        "tracks" : [
+            "smoothoperator/smooth_operator.mp3"
+        ],
+        "commands" : [
+            "smoothoperator/lead1.json",
+            "smoothoperator/lead2.json",
+            "smoothoperator/chorus.json",
+            "smoothoperator/flip.json"
+        ],
+        "fade" : 180
+    },
+
+   {
+      "tracks" : [
+         "choices/choices.mp3"
+      ],
+      "commands" : [
+         "choices/choices_chorus.json",
+         "choices/choices_lead1.json",
+         "choices/choices_lead2.json",
+         "choices/choices_beat.json",
+         "choices/choices_accenta.json"
+      ],
+      "fade" : 165
+   },
+
+   {
+      "tracks" : [
+         "walkonthewildside/walkonthewildside.mp3"
+      ],
+      "commands" : [
+         "walkonthewildside/walk_lead.json",
+         "walkonthewildside/walk_chorus.json"
+      ],
+      "fade": 222
+   },
+
+   {
+      "tracks" : [
+         "onceinalifetime/talking_heads_once.mp3"
+      ],
+      "commands" : [
+         "onceinalifetime/th_chrous.json",
+         "onceinalifetime/th_lead1.json",
+         "onceinalifetime/th_lead2.json",
+         "onceinalifetime/th_beat.json"
+      ],
+      "fade": 240
+   },
+
+   {
+      "tracks" : [
+         "stayingalive/stayingalive.mp3"
+      ],
+      "commands" : [
+         "stayingalive/sa_beat_2.json", 
+         "stayingalive/sa_lead1.json", 
+         "stayingalive/sa_lead2.json", 
+         "stayingalive/sa_lead3.json", 
+         "stayingalive/sa_chorus_new.json"
+      ],
+      "fade": 101
+   }
+]

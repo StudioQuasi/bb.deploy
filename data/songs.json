@@ -1,14 +1,4 @@
 [
-	    {
-        "tracks" : [
-            "hallandoats/hallandoats.mp3"
-        ],
-        "commands" : [
-            "hallandoats/lead1.json",
-            "hallandoats/chorus.json"
-        ],
-        "fade" : 165
-    },
     {
         "tracks" : [
             "smoothoperator/smooth_operator.mp3"
